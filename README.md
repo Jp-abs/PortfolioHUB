@@ -1,19 +1,40 @@
-# PortfolioHUB
+# 💻 PortfolioHUB
 
-Repositório criado para armazenar projetos acadêmicos e pessoais.
+Repositório criado para armazenar projetos.
 
-## Estrutura
+---
 
-- Projetos acadêmicos
-- Projetos pessoais
-- Documentação
+## 📌 Sobre o Projeto
 
-## Tecnologias
+Este repositório reúne programas simples com foco em prática de lógica de programação e uso da linguagem C.
 
-- HTML
+---
+
+## 📂 Projetos
+
+### 🧮 Calculadora em C
+Programa que realiza operações matemáticas básicas:
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
+O usuário informa os valores e escolhe a operação desejada.
+
+---
+
+### 📊 Sistema de Notas
+Programa que calcula a média de um aluno e informa sua situação:
+- ✅ Aprovado
+- ❌ Reprovado
+
+Utiliza estruturas condicionais para a decisão final.
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- Linguagem C
+- Lógica de programação
 - Git
 - GitHub
-
-## Autor
-
-João Pedro
